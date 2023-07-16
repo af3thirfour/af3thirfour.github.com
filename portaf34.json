@@ -1,0 +1,24 @@
+{ 
+    "zepgeaa":{
+        "aUrl":"https://jebet.vip/?id=23588458",
+        "isToAGame":false,
+        "isAlert":false,
+        "checkIpCodes":[
+            "IN",
+            "HK"
+        ]
+        "afFbId":"",
+        "afFbToken":""
+    },
+    "funfunfy":{
+        "aUrl":"https://test.bosa66.com/",
+        "isToAGame":true,
+        "isAlert":false,
+        "checkIpCodes":[
+            "HK",
+            "CN"
+        ]
+        "afFbId":"",
+        "afFbToken":""
+    }
+}
