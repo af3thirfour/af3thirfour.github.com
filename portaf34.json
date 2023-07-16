@@ -1,23 +1,25 @@
 { 
     "zepgeaa":{
-        "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "aUrl":"https://bol.bet",
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
             "IN",
             "HK"
-        ]
+        ],
+        "afKey":"352JSnsyFGHeLAVNpjRyzA",
         "afFbId":"",
         "afFbToken":""
     },
     "funfunfy":{
-        "aUrl":"https://test.bosa66.com/",
+        "aUrl":"https://bol.bet",
         "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
             "HK",
             "CN"
-        ]
+        ],
+        "afKey":"352JSnsyFGHeLAVNpjRyzA",
         "afFbId":"",
         "afFbToken":""
     }
