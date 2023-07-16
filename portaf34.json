@@ -1,7 +1,7 @@
 { 
     "zepgeaa":{
         "aUrl":"https://bol.bet",
-        "isToAGame":true,
+        "isToAGame":false,
         "isAlert":false,
         "checkIpCodes":[
             "IN",
@@ -13,7 +13,7 @@
     },
     "funfunfy":{
         "aUrl":"https://bol.bet",
-        "isToAGame":true,
+        "isToAGame":false,
         "isAlert":false,
         "checkIpCodes":[
             "HK",
